@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cadeira de Escritório Elements Helene",
+      "price": 1198,
+      "image": "https://m.media-amazon.com/images/I/31tqkZM3tbL._AC_US100_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cadeira Escritório Presidente Brizza Plaxmetal",
+      "price": 1067,
+      "image": "https://m.media-amazon.com/images/I/319XcAjMfYL._AC_US100_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Cadeira Escritório Presidente Brizza com Mecanismo Relax",
+      "price": 2459,
+      "image": "https://m.media-amazon.com/images/I/314W2MBsoYL._AC_US100_.jpg"
+    }
+  ]
+}
